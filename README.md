@@ -9,5 +9,13 @@ This bash script uses gdrive,va command line utility. In order to run this scrip
 ## How to start the script
 Once you clone this repository to your local machine,open the terminal and go to the directory where you have upload.sh file.
 #### Use the following command to start the script:<br>
-```./upload.sh```
+```./upload.sh```<br>
+## Usage guidelines
+Once you start the script, it gives you a menu with the following options:<br>
+#### 0.exit<br>
+#### 1.upload<br>
+#### 2.download<br>
+#### 3.list files
+
+
   
